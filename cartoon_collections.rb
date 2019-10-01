@@ -15,8 +15,10 @@ def long_planeteer_calls(array)
   i = 0
   if i > array[i].length do
   array.include?(array[i].length >= 4)
+  puts true
   i += 1
   end
+  puts false
 end
 end
 
