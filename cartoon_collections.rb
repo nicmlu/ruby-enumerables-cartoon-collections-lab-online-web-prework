@@ -13,8 +13,10 @@ end
 
 def long_planeteer_calls(array)
   i = 0
+  if i > array[i].length do
   array.include?(array[i].length >= 4)
   i += 1
+  end
 end
 
 def find_the_cheese# code an argument here
